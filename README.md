@@ -3,7 +3,7 @@ This is a customizable view that implements the checkable interface.
 You can adjust the color attributes for both checked and unchecked
 states.
 
-<img src="http://clemgumbs.com/img/apps/checkablebutton_1487161644.png" alt="Drawing" style="width:100"/>
+
 
 
 ## Sample
