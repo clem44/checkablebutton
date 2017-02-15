@@ -4,6 +4,8 @@ You can adjust the color attributes for both checked and unchecked
 states
 
 
+## Sample
+
 ## What you can do
 * Adjust Border states (stroke, radius, color)
 * Background (unchecked, checked, disabled)
@@ -41,6 +43,24 @@ Include app namespace to the root element :
         app:cb_unCheckColor="#FFAA66CC"
         app:cb_uncheckedTextColor="#ffffff"
          />
+
+
+#### Editable Attributes
+
+|xml    | Java| Description|
+|------:|----:|-----------:|
+|app:cb_checkedborderWidth|setCheckedBorderWidth(int)|border width in checked state|
+|app:cb_checkedBorderColor|setCheckedBorderColor(color)|border color in checked state|
+|app:cb_checkedColor|setCheckedBackgroundColor(color)|button color in checked state|
+|app:cb_checkedTextColor|setCheckedTextColor(color)|text color in checked state|
+|app:cb_radius|setRadius(int)|button corner radius |
+|app:cb_text|setText(String)|button text|
+|app:cb_textSize|setDefaultTextSize(dimension)|button text size|
+|app:cb_borderWidth|setBorderWidth(int)|border width in uncheck state|
+|app:cb_unCheckBorderColor|setBorderColor(color)|border color in uncheck state|
+|app:cb_unCheckColor|setUncheckedBackgroundColor(color)|button color in uncheck state|
+|app:cb_uncheckedTextColor|setUncheckedTextColor(color)|button text color in uncheck state|
+
 
 ### TODO
 * make available through to jcenter
