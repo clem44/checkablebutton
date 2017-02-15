@@ -71,6 +71,11 @@ Include app namespace to the root element :
 * make provision for adding images
 * Add check state animations
 
+
+## Inspiration
+Inspiration for this library came from toying around with Meydo's FancyButton https://github.com/medyo/Fancybuttons
+It's an awesome library and you should check his work out.
+
 ### Licence
 
 MIT
