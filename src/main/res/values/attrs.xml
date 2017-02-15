@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CheckableButton">
+
+        <attr name="cb_unCheckColor" format="color"/>
+        <attr name="cb_unCheckBorderColor" format="color"/>
+        <attr name="cb_checkedColor" format="color"/>
+        <attr name="cb_checkedBorderColor" format="color"/>
+        <attr name="cb_unCheckTextColor" format="color"/>
+        <attr name="cb_checkedTextColor" format="color"/>
+        <attr name="cb_uncheckedTextColor" format="color"/>
+        <attr name="cb_disabledColor" format="color"/>
+        <attr name="cb_disabledTextColor" format="color"/>
+        <attr name="cb_disabledBorderColor" format="color"/>
+        <attr name="cb_borderWidth" format="dimension"/>
+        <attr name="cb_checkedborderWidth" format="dimension"/>
+        <attr name="cb_textGravity" format="enum"/>
+        <attr name="cb_textSize" format="dimension"/>
+        <attr name="cb_text" format="string"/>
+        <attr name="cb_isChecked" format="boolean"/>
+        <attr name="cb_textAllCaps" format="boolean"/>
+        <attr name="cb_radius" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>
