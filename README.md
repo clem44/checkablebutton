@@ -48,7 +48,7 @@ Include app namespace to the root element :
 #### Editable Attributes
 
 |xml    | Java| Description|
-|------:|----:|-----------:|
+|:------|:----|:-----------|
 |app:cb_checkedborderWidth|setCheckedBorderWidth(int)|border width in checked state|
 |app:cb_checkedBorderColor|setCheckedBorderColor(color)|border color in checked state|
 |app:cb_checkedColor|setCheckedBackgroundColor(color)|button color in checked state|
