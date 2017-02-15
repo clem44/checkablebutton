@@ -30,7 +30,7 @@ Include app namespace to the root element :
 
  Basic usage :
 
-	 <com.codeogenic.checkablebutton.CheckableButton
+   <com.codeogenic.checkablebutton.CheckableButton
         android:id="@+id/btn1"
         android:layout_width="100dp"
         android:layout_height="100dp"
@@ -66,7 +66,7 @@ Include app namespace to the root element :
 
 
 ### TODO
-* make available through to jcenter
+* make available through jcenter
 * make provision for adding icon fonts
 * make provision for adding images
 * Add check state animations
