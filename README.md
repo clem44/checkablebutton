@@ -8,6 +8,7 @@ states.
 
 
 ## Sample
+<a href="https://play.google.com/store/apps/details?id=com.codeogenic.myapplication"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/2000px-Get_it_on_Google_play.svg.png" width="25%"></a>
 
 ## What you can do
 * Adjust Border states (stroke, radius, color)
