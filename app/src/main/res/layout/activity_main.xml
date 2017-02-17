@@ -204,7 +204,7 @@
                     android:id="@+id/seekBar"
                     android:layout_centerVertical="true"
                     android:layout_alignParentEnd="true"
-                    android:max="100"
+                    android:max="120"
                     android:progress="4" />
 
             </RelativeLayout>
